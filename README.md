@@ -2,7 +2,7 @@
 
 👩‍💻  I’m a software developer working in the bioinformatics field and currently pursuing a degree in Systems Analysis and Development. With knowledge in JavaScript, Python, and Java, I enjoy solving complex problems and building innovative solutions.
 
-🌱 Always eager to learn and grow, I'm excited to explore new technologies and contribute to impactful projects.
+🌱 I’m always eager to learn and grow, I'm excited to explore new technologies and contribute to impactful projects.
 
 
 These are the technologies I am most knowledgeable about:
