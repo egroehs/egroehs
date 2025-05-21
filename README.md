@@ -1,6 +1,6 @@
 ## Hi, I’m Eduarda👋
 
-👩‍💻  I’m a software developer working in the bioinformatics field and currently pursuing a degree in Systems Analysis and Development. With knowledge in JavaScript, Python, and Java, I enjoy solving complex problems and building innovative solutions.
+👩‍💻  I’m a software developer currently pursuing a degree in Systems Analysis and Development and working in development with React. With knowledge in JavaScript, Python and Java, I enjoy solving complex problems and building innovative solutions.
 
 🌱 I’m always eager to learn and grow, I'm excited to explore new technologies and contribute to impactful projects.
 
