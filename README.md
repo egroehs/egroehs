@@ -1,11 +1,6 @@
 ## Hi, I’m Eduarda👋
 
-👩‍💻  Software developer pursuing a degree in Systems Analysis and Development. Currently working with React and experienced in TypeScript, JavaScript, Python, and Java. Passionate about solving complex problems and building innovative solutions.
-
-🌱 I’m always eager to learn and grow, I'm excited to explore new technologies and contribute to impactful projects.
-
-
-These are the technologies I am most knowledgeable about:
+👩‍💻  Software developer pursuing a degree in Systems Analysis and Development. Passionate about solving complex problems and building innovative solutions.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
